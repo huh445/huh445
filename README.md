@@ -1,6 +1,6 @@
 - @huh445
 - Owner of discok.org and discok.net
-- Avid learner of C#, C++, Swift and Python.
+- Avid learner of Rust, C#, C++, Swift and Python.
 - ***not*** a graphic designer
 <!---
 huh445/huh445 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
